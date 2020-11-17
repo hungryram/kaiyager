@@ -3,6 +3,9 @@ filter_sheet_id = "1644796"
 meta_description = ""
 title = "South Torrance"
 title_tag = ""
+[menu.main]
+parent = "Communities"
+weight = 1
 
 +++
 Welcome to South Torrance

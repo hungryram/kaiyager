@@ -2,6 +2,16 @@ baseURL = "https://idxhomes.netlify.app/"
 languageCode = "en-us"
 summaryLength = 20
 [[menu.main]]
+name = "Home Valuation"
+parent = "Sell"
+url = "/home-value-request"
+weight = 3
+[[menu.main]]
+name = "Mortgage Calculator"
+parent = "Buy"
+url = "https://search.idxhome.com/mortcalc/133407"
+weight = 2
+[[menu.main]]
 name = "Our Sales"
 parent = "Portfolio"
 url = "/status/sold"
@@ -13,18 +23,8 @@ weight = 6
 name = "Communities"
 weight = 5
 [[menu.main]]
-name = "Mortgage Calculator"
-parent = "Buy"
-url = "https://search.idxhome.com/mortcalc/133407"
-weight = 2
-[[menu.main]]
 name = "Buy"
 weight = 4
-[[menu.main]]
-name = "Home Valuation"
-parent = "Sell"
-url = "/home-value-request"
-weight = 3
 [[menu.main]]
 name = "Sell"
 weight = 3
