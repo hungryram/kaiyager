@@ -14,5 +14,6 @@ fields:
   label: SEO
 pages:
 - content/about.md
+- content/buyers.md
 - content/cash-offer.md
 - content/sellers.md
