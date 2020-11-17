@@ -17,3 +17,5 @@ fields:
   config:
     required: false
   label: Filter Sheet ID
+pages:
+- content/communities/south-torrance.md
