@@ -3,10 +3,6 @@ body = "View Client reviews"
 meta_description = "Our clients put their trust in our team"
 title = "Testimonial"
 title_tag = "Testimonial"
-[menu.main]
-name = "Testimonials"
-parent = "Portfolio"
-weight = 1
 [[testimonials]]
 date = "Sep 20, 2020"
 name = "Roger Benn"

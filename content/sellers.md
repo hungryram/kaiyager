@@ -2,9 +2,6 @@
 meta_description = "Every smart seller should know these 3 things. Learn more with Team Yager Real Estate"
 title = "Sellers"
 title_tag = "3 Things Smart Sellers Need to Know - Team Yager Real Estate"
-[menu.main]
-parent = "Sell"
-weight = 1
 
 +++
 As a smart seller there are 3 things you need to know before selling your property.
