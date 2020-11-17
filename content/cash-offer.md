@@ -14,4 +14,4 @@ By filling out the form below we will process your request and reach out to sche
 
 We will buy your home as-is, no repairs, no cleaning necessary. We have designed this program for people that are stuck in a bad situation and offer a way out. Whether you cannot dig any deeper paying for mortgage, repair expenses are too immense, or need cash now, we offer a solution to your problem. Gives us a shot and fill out the form below to get started.
 
-{{% form %}} Form Body {{% /form %}}
+{{< form >}}
