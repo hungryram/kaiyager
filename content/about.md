@@ -3,7 +3,7 @@ meta_description = ""
 title = "About"
 title_tag = ""
 [menu.main]
-weight = 7
+weight = 6
 
 +++
 Team Yager established in 2000, understands that their clients’ needs come first. With over 20 years of experience, Team Yager has handled all different aspects of the real estate transaction. We pride ourselves in our professionalism and knowhow to help our clients seamlessly secure the right property in any circumstance.
