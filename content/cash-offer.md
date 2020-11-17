@@ -2,6 +2,10 @@
 meta_description = ""
 title = "Cash Offer"
 title_tag = ""
+[menu.main]
+name = "Get a Cash Offer"
+parent = "Sell"
+weight = 2
 
 +++
 ##### Cash Offer in 48 Hours!

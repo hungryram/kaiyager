@@ -2,6 +2,9 @@
 meta_description = ""
 title = "Buyers"
 title_tag = ""
+[menu.main]
+parent = "Buy"
+weight = 1
 
 +++
 Purchasing a home is one of the biggest financial decision of one’s life. Whether you are a first time home buyer or an experienced one, you must be careful and 100% committed before putting in an offer.
