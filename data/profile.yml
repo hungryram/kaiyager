@@ -1,10 +1,10 @@
 ---
-company_name: Real Estate Company
+company_name: Yager Real Estate Team
 social_media:
   instagram: https://instagram.com
-  twitter: http://twitter.com/
+  twitter: ''
   facebook: https://facebook.com
-  pinterest: https://pinterest.com
+  pinterest: ''
   yelp: https://www.yelp.com/
 contact_information:
   phone: "5555555555"
@@ -17,9 +17,10 @@ contact_information:
   state: CA
   zip_code: "92882"
 search_engine_optimization:
-  title_tag: Real Estate Theme
-  meta_description: No page builders or drag and drop. Experience a new technology
-    stack
+  title_tag: Yager Team Real Estate
+  meta_description: Team Yager established in 2000, understands that their clients’
+    needs come first. With over 20 years of experience, Team Yager has handled all
+    different aspects of the real estate transaction.
   twitter_card:
     twitter_username: ''
   facebook:
