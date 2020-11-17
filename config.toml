@@ -49,7 +49,7 @@ weight = 1
 [[menu.main]]
 name = "Login/Register"
 url = "https://search.idxhome.com//organizer/login/133408"
-weight = 8
+weight = 9
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
