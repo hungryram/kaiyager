@@ -7,7 +7,6 @@ parent = "Sell"
 weight = 2
 
 +++
-
 ##### Cash Offer in 48 Hours!
 
 By filling out the form below we will process your request and reach out to schedule a tour of your home. This way we can make the best and most accurate offer for you and your home. Many of these online blind cash offer sites cannot offer you the most money because they have to leave room for error. We assure you an easy and seamless experience and provide other options if the Cash Offer does not work out.
