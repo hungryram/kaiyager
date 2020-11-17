@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="section">
+    <div class="container">
+        <div class="columns is-variable is-8">
+            <div class="column">
+                <main>
+                    <div class="inner-container content">
+                        {{ .Content }}
+                    </div>
+                    <div class="featured-scroll">
+                        {{ if $.Site.Data.idx.incomplete_subdomain }}
+                        <script type="text/javascript" src="https://{{ $.Site.Data.idx.incomplete_subdomain }}.idxhome.com/site/listing/gallery/slider/{{ $.Site.Data.idx.ihf_client_id }}?columns=3&amp;rows=1&amp;effect=fade&amp;auto=false"></script>
+                        {{ else }}
+                        <script type="text/javascript" src="https://{{ $.Site.Data.idx.complete_subdomain }}/site/listing/gallery/slider/{{ $.Site.Data.idx.ihf_client_id }}?columns=3&amp;rows=1&amp;effect=fade&amp;auto=false"></script>     
+                        {{ end }}
+                    </div>
+                </main>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
