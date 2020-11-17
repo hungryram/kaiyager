@@ -1,0 +1,52 @@
+{{ if $.Site.Data.idx.enable_idx }}
+{{ if $.Site.Data.idx.incomplete_subdomain }}
+<form id="ihf-contact-request-form" data-ihf-event="contact-form-submit" action="https://{{ $.Site.Data.idx.incomplete_subdomain }}.idxhome.com/contact/{{ $.Site.Data.idx.ihf_client_id }}" method="POST" data-ihf-event-bound="true">
+{{ else }}
+<form id="ihf-contact-request-form" data-ihf-event="contact-form-submit" action="https://{{ $.Site.Data.idx.complete_subdomain }}/contact/{{ $.Site.Data.idx.ihf_client_id }}" method="POST" data-ihf-event-bound="true">
+{{ end }}
+  <div class="field is-horizontal">
+    <div class="field-body">
+      <div class="field">
+        <p class="control is-expanded">
+          <input class="input" type="text" placeholder="Name" name="contactName" required>
+        </p>
+      </div>
+      <div class="field">
+        <p class="control">
+          <input class="input" type="text" placeholder="Email" name="email" required>
+        </p>
+      </div>
+      <div class="field">
+        <p class="control">
+          <input class="input" type="text" placeholder="Phone" name="phone" required>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="field">
+    <div class="control">
+        <textarea id="message" placeholder="Message" name="message" class="textarea" style="height: 140px;" rows="3"> </textarea>
+    </div>
+  </div>
+  {{ if $.Site.Data.idx.enable_google_recaptcha }}
+  <div class="field-body">
+    <div class="field">
+      <div class="control">
+        <div class="g-recaptcha" data-sitekey="{{ $.Site.Data.idx.google_site_key }}"></div>
+      </div>
+    </div>
+  </div>
+{{ end }}
+  <div class="control">
+    <button class="button" style="{{ safeHTMLAttr (printf "background-color: %s" $.Site.Data.design.colors.button_background_colors) }};width:305px">Submit</button>
+  </div>
+  <div class="field mt-5">
+    <div class="control">
+      <label class="checkbox">
+        <input type="checkbox" required>
+        <span class="is-size-7">By submitting this form you confirm you have read and agreed to our <a href="">Terms of service</a> and <a href="">Privacy Policy.</a> You consent to having this website store the submitted information so we can respond to the inquiry. Don't worry, you can request to have your information removed anytime.</span>
+      </label>
+    </div>
+  </div>
+</form>
+{{ end }}
