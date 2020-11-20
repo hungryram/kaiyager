@@ -5,7 +5,7 @@ title = "South Torrance"
 title_tag = ""
 [menu.main]
 parent = "Communities"
-weight = 1
+weight = 2
 
 +++
 Welcome to South Torrance
