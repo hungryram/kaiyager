@@ -24,9 +24,9 @@ home_sections:
     and knowhow to help our clients seamlessly secure the right property in any circumstance.
   button: Read more
   button_link: "/about"
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1605890539/kai-yager/yager-team/teamphotoyager_xjpgyc.png
+  image: https://res.cloudinary.com/hungryram19/image/upload/v1605890680/kai-yager/yager-team/yagerteamphoto_rwykdu.png
   image_alt_tag: Kai Yager
-  image_width: '400'
+  image_width: 
 - template: featured-idx-listings
   heading: View Listings from the MLS
   body: ''
