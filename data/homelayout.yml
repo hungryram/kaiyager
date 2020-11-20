@@ -36,8 +36,8 @@ home_sections:
     non delectus eos, quas, dolorem alias '
   featured:
   - image: https://res.cloudinary.com/hungryram19/image/upload/v1605402922/templates/realestate2/losangeles_z6wp8g.jpg
-    link: "/contact"
-    heading: Los Angeles
+    link: "/communities/south-torrance"
+    heading: South Torrance
   - heading: Whittier
     image: https://res.cloudinary.com/hungryram19/image/upload/v1605402939/templates/realestate2/livingroom_az8tp4.jpg
     link: "/contact"
