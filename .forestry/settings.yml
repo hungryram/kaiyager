@@ -45,6 +45,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - heading-and-body
   - communities
 - type: directory
   path: content/listings
