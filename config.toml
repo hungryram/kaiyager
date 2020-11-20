@@ -9,7 +9,7 @@ weight = 3
 [[menu.main]]
 name = "Our Sales"
 parent = "Portfolio"
-url = "/status/sold"
+url = "http://search.idxhome.com/listing/supplementals/150102"
 weight = 2
 [[menu.main]]
 name = "Mortgage Calculator"
