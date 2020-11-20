@@ -1,4 +1,5 @@
 +++
+body = "Visit our featured communities"
 title = "Communities"
 [menu.main]
 name = "Featured Communities"
