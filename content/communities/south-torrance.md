@@ -1,4 +1,5 @@
 +++
+featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1605891418/kai-yager/yager-team/colfax-coldwell-banker-the-real-estate-group_ianrze.jpg"
 filter_sheet_id = "1650171"
 meta_description = ""
 title = "South Torrance"
