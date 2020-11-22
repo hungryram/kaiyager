@@ -52,7 +52,7 @@ home_sections:
   background_image: https://res.cloudinary.com/hungryram19/image/upload/v1605403006/templates/realestate2/clean-living-room_b3bubn.jpg
   form:
     heading: Send a message
-    body: Fill out the form below and we will respond back to you shortly!
+    body: You can count on Team Yager to deliver exceptional results.
   background_color: "#424242"
   enable_white_text: true
 - template: home-blog
