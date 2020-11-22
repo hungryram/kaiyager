@@ -1,16 +1,17 @@
 {{ $footer := .Site.Data.appearance.footer }}
 {{ $footerContact := .Site.Data.profile }}
 {{ $footerSocial := .Site.Data.profile.social_media }}
-<footer class="footer pb-0" style="background:{{ if $footer.background_image }}linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url({{ $footer.background_image }}) no-repeat center;{{ else }}background:{{ $footer.footer_background_color }}{{ end }}">
+<footer class="footer pb-0" style="background:{{ if $footer.background_image }}linear-gradient(rgba(255,255,255,0.9),rgba(255,255,255,0.9)),url({{ $footer.background_image }}) no-repeat center;{{ else }}background:{{ $footer.footer_background_color }}{{ end }}">
     <div class="section">
         <div class="container">
             <div class="columns is-variable is-8">
                 <div class="column">
                     {{ if $footer.logo }}
-                    <img src="{{ $footer.logo }}" alt="{{ .Site.Data.appearance.branding.site_title }}" width="150">
+                    <img src="{{ $footer.logo }}" alt="{{ .Site.Data.appearance.branding.site_title }}">
                     {{ else }}
                     <h1 class="title is-4 {{ if $footer.enable_black_text }}has-text-black{{ else }}has-text-white{{ end }}">{{ $footerContact.company_name }}</h1>
                     {{ end }}
+                    <br>
                     <em class="has-text-weight-light {{ if $footer.enable_black_text }}has-text-black{{ else }}has-text-white{{ end }}">{{ $footerContact.contact_information.license }}</em>
                 </div>
                 <div class="column">
