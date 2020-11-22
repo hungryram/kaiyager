@@ -32,8 +32,7 @@ home_sections:
   body: ''
 - template: featured-boxes
   heading: Featured Communities
-  body: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro optio fugit
-    non delectus eos, quas, dolorem alias '
+  body: Browse through featured communities around the area with Team Yager.
   featured:
   - image: https://res.cloudinary.com/hungryram19/image/upload/v1605894084/kai-yager/yager-team/house_drmqqy.jpg
     link: "/communities/south-torrance"
