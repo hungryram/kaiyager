@@ -295,13 +295,13 @@ ul.sidebar-category li {
 
 div.featured,
 div.tiles .column {
-  transition: 3s;
+  transition: .2s;
 }
 
 div.featured:hover,
 div.tiles .column:hover {
   opacity: .8;
-  transition: .3s;
+  transition: .2s;
 }
 
 /* TEXT AND CONTACT FORM */
