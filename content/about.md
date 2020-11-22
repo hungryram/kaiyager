@@ -2,6 +2,8 @@
 meta_description = ""
 title = "About"
 title_tag = ""
+[menu.footer]
+weight = 1
 [menu.main]
 weight = 7
 
