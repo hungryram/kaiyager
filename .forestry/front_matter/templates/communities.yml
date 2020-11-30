@@ -41,4 +41,5 @@ fields:
       format: markdown
   label: Schools
 pages:
+- content/communities/central-torrance.md
 - content/communities/south-torrance.md
