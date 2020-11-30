@@ -2,6 +2,8 @@
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1605894084/kai-yager/yager-team/house_drmqqy.jpg"
 filter_sheet_id = "1650171"
 meta_description = ""
+parks = "* Torrance Beach\n* De Portola Park\n* Alta Loma Park\n* Walteria Park\n* Lago Seco Park\n* Rocketship Park\n* Seaside Heroes Park"
+schools = "* Walteria Elementary (K-5)\n* Seaside Elementary (K-5)\n* Arnold Elementary (K-5)\n* Riviera Elementary (K-5)\n* Richardson Middle (6-8)\n* Calle Mayor Middle (6-8)\n* South High (9-12)"
 title = "South Torrance"
 title_tag = ""
 [menu.main]
