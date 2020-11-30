@@ -6,6 +6,9 @@ parks = "* Wilson Park\n* El Prado Park\n* Greenwood Park\n* Torrance Park\n* Hi
 schools = "* Wood Elementary (K-5)\n* John Adams Elementary (K-5)\n* Torrance Elementary (K-5)\n* Hickory Elementary (K-5)\n* Madrona Middle (6-8)\n* J.H. Hull Middle (6-8)\n* Torrance High School (9-12)"
 title = "Central Torrance"
 title_tag = ""
+[menu.main]
+parent = "Communities"
+weight = 5
 
 +++
 Where it all started, Central Torrance is the center of Old Town Torrance. Old Town Torrance is one of the most historic sections of Torrance with homes over 100 years old. Historic architecture can be seen in homes and buildings all over Old Town Torrance. A great example of this is Torrance High School and its Revival Renaissance Architecture. A few famous films were filmed at Torrance High which include: Bruce Almighty, Not Another Teen Movie, She’s All That, 90210, and Buffy the Vampire Slayer.

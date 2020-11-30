@@ -11,14 +11,14 @@ parent = "Sell"
 url = "/home-value-request"
 weight = 3
 [[menu.main]]
-name = "Our Sales"
-parent = "Portfolio"
-url = "http://search.idxhome.com/listing/supplementals/150102"
-weight = 2
-[[menu.main]]
 name = "Mortgage Calculator"
 parent = "Buy"
 url = "https://search.idxhome.com/mortcalc/133407"
+weight = 2
+[[menu.main]]
+name = "Our Sales"
+parent = "Portfolio"
+url = "http://search.idxhome.com/listing/supplementals/150102"
 weight = 2
 [[menu.main]]
 name = "Portfolio"
