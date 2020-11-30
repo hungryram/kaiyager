@@ -14,3 +14,5 @@ weight = 2
 Welcome to South Torrance
 
 South Torrance offers the beachy suburban lifestyle. The residents are active, friendly, pleasant, and love soaking up the sun. Home to sandy Torrance Beach, what better way than to spend a summer weekend at the beach. Beautiful ocean breezes are the norm and the tranquil serenity in the South Torrance neighborhoods are highly sought after. A great highlight of South Torrance are the Seaside Holiday Lights. A tradition every year where we see the most glorious Christmas lights in Seaside Ranchos right off of PCH, west of Calle Mayor.
+
+Assigned to the award winning Torrance Unified School District, it is a great place to raise a family. Some great neighborhoods include: Walteria, Seaside, Southwood, Riviera, Hillside (Victoria Knolls), Country Hill, Marble Estates. In honor of Louis Zamperini, a war hero and sports icon, Zamperini Field is a small public airport terminal perfect for smaller aircrafts and hobbyists.
