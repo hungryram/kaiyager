@@ -19,8 +19,28 @@
         <div class="columns is-variable is-8">
             <div class="column">
                 <main>
-                    <div class="inner-container content">
-                        {{ .Content }}
+                    <div class="columns">
+                        <div class="column">
+                            <div class="inner-container content">
+                                {{ .Content }}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="columns is-multiline">
+                        {{ if .Params.parks }}
+                        <div class="column content is-4">
+                            <h4 class="title is-6">Parks and Nature</h4>
+                            <hr style="background: #c7ac5f;">
+                            {{ .Params.parks | markdownify }}
+                        </div>
+                        {{ end }}
+                        {{ if .Params.schools }}
+                        <div class="column content is-4">
+                            <h4 class="title is-6">Schools</h4>
+                            <hr style="background: #c7ac5f;">
+                            {{ .Params.schools | markdownify }}
+                        </div>
+                        {{ end }}
                     </div>
                     <div class="featured-scroll">
                         {{ if $.Site.Data.idx.incomplete_subdomain }}
@@ -40,7 +60,7 @@
 {{ $footer := .Site.Data.appearance.footer }}
 {{ $footerContact := .Site.Data.profile }}
 {{ $footerSocial := .Site.Data.profile.social_media }}
-<footer class="footer pb-0" style="background:{{ if $footer.background_image }}linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url({{ $footer.background_image }}) no-repeat center;{{ else }}background:{{ $footer.footer_background_color }}{{ end }}">
+<footer class="footer pb-0" style="background:{{ if $footer.background_image }}linear-gradient(rgba(255,255,255,0.9),rgba(255,255,255,0.9)),url({{ $footer.background_image }}) no-repeat center;{{ else }}background:{{ $footer.footer_background_color }}{{ end }}">
     <div class="section">
         <div class="container">
             <div class="columns is-variable is-8">
