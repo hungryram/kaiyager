@@ -37,12 +37,12 @@ home_sections:
   - image: https://res.cloudinary.com/hungryram19/image/upload/v1605894084/kai-yager/yager-team/house_drmqqy.jpg
     link: "/communities/south-torrance"
     heading: South Torrance
-  - heading: Whittier
-    image: https://res.cloudinary.com/hungryram19/image/upload/v1605402939/templates/realestate2/livingroom_az8tp4.jpg
-    link: "/contact"
-  - heading: Corona
-    image: https://res.cloudinary.com/hungryram19/image/upload/v1605402970/templates/realestate2/sidekix-media-l6u4GIKvxBs-unsplash_qipkhd.jpg
-    link: "/contact"
+  - heading: Central Torrance
+    image: https://res.cloudinary.com/hungryram19/image/upload/v1606752481/kai-yager/yager-team/centraltorrance_gioowy.jpg
+    link: https://www.yagerre.com/communities/central-torrance/
+  - heading: North Torrance
+    image: https://res.cloudinary.com/hungryram19/image/upload/v1606752761/kai-yager/yager-team/exterior-house_gczygu.jpg
+    link: https://www.yagerre.com/communities/north-torrance/
 - template: text-and-contact-form
   heading: Team Yager has won over the confidence of all their clients, highlighted
     by referrals and repeat business.
