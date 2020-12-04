@@ -6,6 +6,10 @@ name = "Search Homes"
 url = "https://search.idxhome.com/homesearch/150102"
 weight = 2
 [[menu.main]]
+name = "Property Search"
+url = "https://search.yagerre.com/homesearch/150102"
+weight = 2
+[[menu.main]]
 name = "Home Valuation"
 parent = "Sell"
 url = "/home-value-request"
@@ -13,12 +17,12 @@ weight = 3
 [[menu.main]]
 name = "Mortgage Calculator"
 parent = "Buy"
-url = "https://search.idxhome.com/mortcalc/133407"
+url = "https://search.yagerre.com/mortcalc/133407"
 weight = 2
 [[menu.main]]
 name = "Our Sales"
 parent = "Portfolio"
-url = "http://search.idxhome.com/listing/supplementals/150102"
+url = "http://search.yagerre.com/listing/supplementals/150102"
 weight = 2
 [[menu.main]]
 name = "Portfolio"
@@ -32,10 +36,6 @@ weight = 4
 [[menu.main]]
 name = "Sell"
 weight = 3
-[[menu.main]]
-name = "Property Search"
-url = "https://search.idxhome.com/homesearch/150102"
-weight = 2
 [[menu.main]]
 name = "Home"
 url = "/"
