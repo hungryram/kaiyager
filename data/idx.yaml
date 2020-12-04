@@ -1,7 +1,7 @@
 ---
 ihf_client_id: 150102
 enable_idx: true
-incomplete_subdomain: search
-complete_subdomain: ''
+incomplete_subdomain: ''
+complete_subdomain: search
 enable_google_recaptcha: true
 google_site_key: 6LcdfpgUAAAAACVR_RRPmjr0AR-qXQcBGdopY1MS
