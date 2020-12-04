@@ -3,7 +3,7 @@ languageCode = "en-us"
 summaryLength = 20
 [[menu.footer]]
 name = "Search Homes"
-url = "https://search.idxhome.com/homesearch/150102"
+url = "https://search.yagerre.com/homesearch/150102"
 weight = 2
 [[menu.main]]
 name = "Property Search"
