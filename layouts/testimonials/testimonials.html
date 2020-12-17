@@ -21,6 +21,9 @@
                                   <div class="media-content">
                                     <em>{{ .name }}</em>
                                     <em class="is-block">{{ .date }}</em>
+                                    {{ if .source }}
+                                    <a href="{{ .source }}" class="has-text-black" target="_blank"><em>{{ .source_label }}</em></a>
+                                    {{ end }}
                                   </div>
                                 </div>
                               </div>
