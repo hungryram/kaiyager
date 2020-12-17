@@ -8,6 +8,8 @@ weight = 1
 weight = 7
 
 +++
+![](https://res.cloudinary.com/hungryram19/image/upload/v1605890539/kai-yager/yager-team/teamphotoyager_xjpgyc.png)
+
 Team Yager established in 2000, understands that their clients’ needs come first. With over 20 years of experience, Team Yager has handled all different aspects of the real estate transaction. We pride ourselves in our professionalism and knowhow to help our clients seamlessly secure the right property in any circumstance.
 
 Experts in the South Bay, Team Yager is devoted to serving the needs of buyers and sellers throughout the South Bay and greater Los Angeles area. We take pride in guiding buyers and sellers through every step of the process. Whether you are a first time home buyer, transitioning from one home to another, or finding a suitable investment property, you can count on Team Yager to deliver exceptional results.
