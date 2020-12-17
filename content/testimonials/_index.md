@@ -8,6 +8,30 @@ name = "Testimonials"
 parent = "Portfolio"
 weight = 1
 [[testimonials]]
+date = "01/14/2020"
+name = "Akemi"
+source = "https://www.zillow.com/profile/yumiyager/#reviews"
+source_label = "Zillow"
+testimonial = "Yumi has helped me through multiple transactions. She has helped me purchase two properties as well as purchase two properties. Yumi was fantastic in assisting both my purchases and helping me sell my properties. She is very knowledgeable in the industry and am very happy with her service. I was in Japan for a few of those transactions and Yumi was still able to adjust her time to suite my schedule and needs. I recommend her for all your real estate needs. Thank you."
+[[testimonials]]
+date = "01/17/2020"
+name = "Shuzo"
+source = "https://www.zillow.com/profile/yumiyager/#reviews"
+source_label = "Zillow"
+testimonial = "Yumi is an excellent Real Estate professional with her networks. I bought a property in Torrance with her and it was a great experience, really no stress and I always like her straight talk with super polite way. Then I needed some improvement for the property and she helped so much. she knows all kind of dealers and she could introduce them accoridning to my budgets!!"
+[[testimonials]]
+date = "01/17/2020"
+name = "T.D"
+source = "https://www.zillow.com/profile/yumiyager/#reviews"
+source_label = "Zillow"
+testimonial = "Yumi took the time to show us properties that matched our needs and bouget,and we eventually found the one! Yumi took into consideration our needs which were mainly based off of loacation since we wanted to be close to shopping centers, restaurants, fitness centers, and our doctores. We are very happy with the results that Yumi got for us and the level of comfort she provided made the process as smooth as possible. I love to recommend Yumi Yaget to my friend because I know she will provide them with such great service."
+[[testimonials]]
+date = "01/27/2020"
+name = "Reiko Tamura"
+source = "https://www.zillow.com/profile/yumiyager/#reviews"
+source_label = "Zillow"
+testimonial = "My name is Reiko Tamura, I am a real estate investor. My partner and I have been investing in real estate over 15 years. We conduct our business very seriously and professionally, and our expectations are high. This was our first time to work with Ms. Yumi Yager and Mr. Kai Yager. But, Yumi and Kai exceeded our expectations and sold our house in a matter of one weekend with over 15 offers. Toward the end, actually my partner and I had to ask them to stop accepting offers because there were too many offers – good offers. What they were great at was their preparations and marketing. As you know, first thing for everyone to do is to determine how much we are going to ask for the house. Asking Price is the key factor to be successful in real estate business – cannot be too high and cannot be too low. Yumi and Kai brought 5 -6 comps with them, analyzed and explained each one of them to us, and sure enough the Asking Price they came up with and what we were in our minds were exactly the same. That was impressive. Once we determined the price, they put our house not only on MLS listing site, but on Social Media Marketing sites, sent out physical post cards to the neighbors, and had a Broker Open House before our official Open House. They are professional and hard workers. They are also responsible and honest with good heart. Those are the skills all the real estate agents should have, and sure they do. I have no hesitation to recommend both Ms. Yumi Yager and Mr. Kai Yager as your next real estate agent!! You will be in great hands like we were!!! Sincerely, Reiko Tamura"
+[[testimonials]]
 date = "10/24/2020"
 name = "Esequiel R."
 source = ""
