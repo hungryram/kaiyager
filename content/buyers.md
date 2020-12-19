@@ -53,6 +53,6 @@ If you get outbid, do not get discouraged. This is part of the home buying proce
 
 Click the links below to view PDF.
 
-1. [How to Stop Paying Rent](https://res.cloudinary.com/hungryram19/image/upload/v1608359548/kai-yager/yager-team/NoRent_kg5xyc.pdf)
-2. [9 Buyer Traps and How to Avoid Them](https://res.cloudinary.com/hungryram19/image/upload/v1608359560/kai-yager/yager-team/buyertraps_pqv2p1.pdf)
-3. [How to Save Thousands of Dollars When You Buy](https://res.cloudinary.com/hungryram19/image/upload/v1608359569/kai-yager/yager-team/SaveThousands_j5ckre.pdf)
+1. [How to Stop Paying Rent](/assets/pdf/NoRent.pdf)
+2. [9 Buyer Traps and How to Avoid Them](/assets/pdf/buyertraps.pdf)
+3. [How to Save Thousands of Dollars When You Buy](/assets/pdf/SaveThousands.pdf)
