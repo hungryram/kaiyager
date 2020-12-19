@@ -37,4 +37,4 @@ Pricing is the single most important factor when it comes to selling your home. 
 
 Staging is the final step for preparation. It’s not absolutely needed but it has been proven that staging your home will get your home sold faster. If you have a vacant property, staging the home can leave a lasting impression on a prospective buyer. Staging will allow the buyer to envision property as if it was a home they can see themselves in. Not everyone has an imagination and staging helps prospects grasp the idea of the space the home offers.
 
-![](https://res.cloudinary.com/hungryram19/image/upload/v1608362755/kai-yager/yager-team/Staging_hhclxb.jpg)
+![staging](https://res.cloudinary.com/hungryram19/image/upload/v1608362755/kai-yager/yager-team/Staging_hhclxb.jpg)
