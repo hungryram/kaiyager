@@ -184,4 +184,6 @@ $(".main-drop").click(function() {
   $(".navbar-dropdown", this).toggleClass("is-active");
 });
 
-$('.single-item').slick();
+$('.single-item').slick({
+  arrows:true,
+});
