@@ -20,6 +20,8 @@ Pricing is the single most important factor when it comes to selling your home. 
 * 10 Days without Showing – Home is Overpriced. At least 5% overpriced.
 * 10 Days without an Offer – Property Rejection – 3-5% Overpriced.
 
+{{< sellersinfo >}}
+
 **2.How to Prepare Your Home to be Sold for Top Dollar**
 
 * Buyer’s normally see the front of the house first. Make a lasting first impression by having a well maintained lawn/shrubs, decluttered porch, clean windows, rails, steps, gutters, garage exterior, pool free of debris and fresh paint if needed.
