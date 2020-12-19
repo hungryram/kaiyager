@@ -48,3 +48,11 @@ Be patient. Do not consistently bombard the agent and sellers asking for their r
 In a multiple offer situation, go in with your best offer. Many sellers and agents will respect a buyer who goes in with their best offer. At times, sellers will not send out counter offers and will select the best offer. Submit your best offer for your number one choice to eliminate any doubt or regret. Buyers always assume that counters will be submitted to all offers and try to undercut the competition. It almost always never works and you may end up without a counter back, missing out on your number one option.
 
 If you get outbid, do not get discouraged. This is part of the home buying process. It is important to consult with an experienced agent who knows how to format an offer to stand out from the bunch.
+
+##### Reports
+
+Click the links below to view PDF.
+
+1. [How to Stop Paying Rent](https://res.cloudinary.com/hungryram19/image/upload/v1608359548/kai-yager/yager-team/NoRent_kg5xyc.pdf)
+2. [9 Buyer Traps and How to Avoid Them](https://res.cloudinary.com/hungryram19/image/upload/v1608359560/kai-yager/yager-team/buyertraps_pqv2p1.pdf)
+3. [How to Save Thousands of Dollars When You Buy](https://res.cloudinary.com/hungryram19/image/upload/v1608359569/kai-yager/yager-team/SaveThousands_j5ckre.pdf)
