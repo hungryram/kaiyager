@@ -81,7 +81,7 @@ source_label = "Zillow"
 testimonial = "I asked Yumi for help to sell my home in South Torrance due to my divorce.It was a very emotional process and I can’t imagine how the process would have been without her.She supported me throughout the whole process and represented me in the best way possible.She was kind,polite,patient, and fought for me in every way possible.She put me first and I can’t thank her enough for all she has done.She is definitely my agent for life and will recommend her to all my friends and family."
 [[testimonials]]
 date = "01/12/2020"
-name = "Layup"
+name = "K.H."
 source = "https://www.zillow.com/profile/yumiyager/#reviews"
 source_label = "Zillow"
 testimonial = "I had lots of questions and concerns selling my house but Yumi made the entire process comfortable and seamless. She got me multiple offers within days after putting the house on the market. I will definitely contact her again for future real estate needs !"
