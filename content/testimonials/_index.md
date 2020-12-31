@@ -33,7 +33,7 @@ source_label = "Zillow"
 testimonial = "She was very reliable and was also able to handle our open houses and sales activities efficiently. For closing our escrow, she could proceed the process smoothly."
 [[testimonials]]
 date = "01/12/2020"
-name = "kuronekonokujira"
+name = "Kurone Konokujira"
 source = "https://www.zillow.com/profile/yumiyager/#reviews"
 source_label = "Zillow"
 testimonial = "Yumi helped my wife and me look for a condo for rent and helped buy a new house. She has shown me kindness in so many different ways and was always on hand to give helpful advice. She is a really nice and caring person! If you need some help about housing, I highly recommend her."
