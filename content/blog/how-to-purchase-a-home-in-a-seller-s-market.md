@@ -1,5 +1,5 @@
 +++
-author = "our-team/_index.md"
+author = "our-team/kai-yager.md"
 categories = []
 date = 2020-12-31T08:00:00Z
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1609463784/kai-yager/yager-team/photo-1564013799919-ab600027ffc6_ard2th.jpg"
