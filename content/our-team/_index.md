@@ -1,6 +1,7 @@
 +++
-body = "Let our team of professionals help!"
+body = ""
 heading = "Our Team"
-title = "Kai Yager"
+title = "Yager Real Estate"
+title_tag = "Yager Real Estate South Bay"
 
 +++
