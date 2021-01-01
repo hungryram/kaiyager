@@ -2,7 +2,7 @@
 draft = true
 title = "Kai Yager"
 url = ""
-weight = 50
+weight = 1
 [contact]
 cell = ""
 email = "kaiyager@gmail.com"
