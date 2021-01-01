@@ -156,4 +156,5 @@ fields:
   template: url
   label: URL
 pages:
+- content/our-team/kai-yager.md
 - content/our-team/yumi-yager.md
