@@ -5,8 +5,8 @@ date = 2020-12-31T08:00:00Z
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1609463784/kai-yager/yager-team/photo-1564013799919-ab600027ffc6_ard2th.jpg"
 image_alt_tag = "beat buyer competition"
 tags = []
-title = "How to Purchase a Home in a Seller's Market"
-url = "how-to-purchase-in-sellers-market"
+title = "How to Purchase a Home in a Competitive Market"
+url = "how-to-purchase-in-competitive-market"
 [search_engine_optimization]
 meta_description = "First thing is to get daily updates of all the properties going on the market. Next you want to research the subject property. Ask seller questions. Your initial offer should be your best price. Eliminate regret. Structuring your offer. "
 title_tag = "How to Purchase a Home in a Seller's Market and Beat Competition"
