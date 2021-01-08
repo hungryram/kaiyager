@@ -7,15 +7,15 @@ featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v161013566
 image_alt_tag = ""
 tags = ["Real estate", "first time home buyer", "real estate investing", "real estate finance"]
 title = "How Much Money Do You Need to Buy a Home?"
-url = ""
+url = "how much to buy a home"
 [search_engine_optimization]
 meta_description = "There is a common misconception that you need 20% down to purchase a home. This is absolutely not true and today we are going to look at the different options of how you can get into a home with low money down options/programs. Today we will be discussing all the common costs to begin home ownership and the feasibility of a low money down option."
 title_tag = "How Much Money Do You Need to Buy a Home?"
 
 +++
-How Much Money Do You Need to Buy a Home?
+### How Much Money Do You Need to Buy a Home?
 
-Low Money Down Payment Options
+#### Low Money Down Payment Options
 
 There is a common misconception that you need 20% down to purchase a home. This is absolutely not true and today we are going to look at the different options of how you can get into a home with low money down options/programs. Today we will be discussing all the common costs to begin home ownership and the feasibility of a low money down option.
 
@@ -49,7 +49,7 @@ Conventional loans might be a better alternative if you are looking for a higher
 
 * Can put as little as 5% Down.
 * Minimum credit score of 620-650. The better your credit score, the better the interest rate will be. That is why building/repairing your credit score a year or two before planning to purchase your home can be tremendously beneficial.
-* Debt to income ratio varies between each lender. On average it’s 35%. I have seen cases where lenders were able to push this to 50%. Consult with your lender/bank. 
+* Debt to income ratio varies between each lender. On average it’s 35%. I have seen cases where lenders were able to push this to 50%. Consult with your lender/bank.
 * Potential Cash Reserves. Depending on the lender’s requirements you may need a few months of payments in cash reserves. This is seen when buying multi unit properties.
 * Private Mortgage Insurance (PMI) is a type of mortgage insurance you will be required to pay if you put less than 20% down. Typically 0.19%-1.86%.
 * Does not have to be primary residence.
@@ -77,11 +77,12 @@ Monthly Mortgage Payment: $3,310
 
 Cash to close: $37,400
 
-####   
+#### 
+
 How Likely Are Sellers to Accept These Offers?
 
-In a competitive market, the down payment amount could be a significant decider in some cases. When a home is in need of some work, sellers are more hesitant to accept an offer with a low down payment. This is because sellers think with a low down payment, buyers do not have much capital to repair and will ask the seller to repair these items. 
+In a competitive market, the down payment amount could be a significant decider in some cases. When a home is in need of some work, sellers are more hesitant to accept an offer with a low down payment. This is because sellers think with a low down payment, buyers do not have much capital to repair and will ask the seller to repair these items.
 
-Ways around this will be to write a clause to purchase "as is", or "repair and credit not to exceed $xxxx". By doing this you give the seller some reassurance of your stance, but you as the buyer is protected as well if the inspection contingency is still on the table. If there is a big problem with the property, that issue can always be revisited. 
+Ways around this will be to write a clause to purchase "as is", or "repair and credit not to exceed $xxxx". By doing this you give the seller some reassurance of your stance, but you as the buyer is protected as well if the inspection contingency is still on the table. If there is a big problem with the property, that issue can always be revisited.
 
-Another way to compete is to put a competitive price. You may have to go above asking price, and be the best offer in terms of price to beat out other offers. If your offer is the same as another, but the other has a higher down payment, the seller will be more inclined to choose the one with the higher down payment. Keep these in mind. 
+Another way to compete is to put a competitive price. You may have to go above asking price, and be the best offer in terms of price to beat out other offers. If your offer is the same as another, but the other has a higher down payment, the seller will be more inclined to choose the one with the higher down payment. Keep these in mind.
