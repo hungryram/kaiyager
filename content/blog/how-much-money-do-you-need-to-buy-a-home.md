@@ -78,7 +78,7 @@ Cash to close: $37,400
 
 #### 
 
-How Likely Are Sellers to Accept These Offers?
+#### How Likely Are Sellers to Accept These Offers?
 
 In a competitive market, the down payment amount could be a significant decider in some cases. When a home is in need of some work, sellers are more hesitant to accept an offer with a low down payment. This is because sellers think with a low down payment, buyers do not have much capital to repair and will ask the seller to repair these items.
 
