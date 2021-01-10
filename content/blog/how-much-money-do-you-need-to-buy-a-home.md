@@ -22,7 +22,7 @@ First we will go over all the costs you must take into account when purchasing.
 
 1. Down Payment
 2. Closing Costs - These are your lender fees, escrow fees, title, and more. In California, closings costs are typically 1-2% of the Purchase Price.
-3. Extra Costs to Consider - There are 2 costs to consider when going through the process. These are the inspection fee and appraisal fee. The inspection is one of the most important $300-$500 spent and is highly recommended as it can save you thousands. It tells you if there are any problems (Big or small) with the property which can be negotiated to be repaired or make any price adjustments. The appraisal fee is $300-$500 and is usually paid at closing.
+3. Extra Costs to Consider - There are 2 costs to consider when going through the process. These are the inspection fee and appraisal fee. The inspection is one of the most important $300-$500+ spent and is highly recommended as it can save you thousands. It tells you if there are any problems (Big or small) with the property which can be negotiated to be repaired or make any price adjustments. The appraisal fee is $300-$500+ and is usually paid at closing.
 
 #### **FHA Loan (Pros):**
 
