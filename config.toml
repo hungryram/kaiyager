@@ -6,6 +6,10 @@ name = "Search Homes"
 url = "https://search.yagerre.com/homesearch/150102"
 weight = 2
 [[menu.main]]
+name = "Blog"
+url = "/blog"
+weight = 8
+[[menu.main]]
 name = "Home Valuation"
 parent = "Sell"
 url = "/home-value-request"
