@@ -6,6 +6,9 @@ parks = "* Mas Fukai Park\n* Rosecrans Recreation Center\n* Vincent Bell Memoria
 schools = "* Gardena Elementary\n* Denker Elementary\n* Purche Avenue Elementary\n* 186th St Elementary\n* 156th St Elementary\n* 153rd St Elementary\n* Peary Middle\n* Environmental Charter Middle\n* Gardena High School\n* El Camino College"
 title = "Gardena"
 title_tag = ""
+[menu.main]
+parent = "Communities"
+weight = 9
 
 +++
 Welcome to Gardena, the cultural capital of the South Bay. Gardena is most known for the immense diversity of foods and restaurants. If you want a different taste for every day of the week, you can find that in Gardena. South of Los Angeles, Gardena is a neighborly suburban area known for many of their mom and pop shops. Gardena mostly consists of Single Family Residence homes but developers have recently come in and built small gated communities. There are a number of communities that have given homebuyers a variety of options in Gardena. One of the more affordable areas of the South Bay, Gardena continues to rise in prices and value.
