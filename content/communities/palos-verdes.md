@@ -2,8 +2,8 @@
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1610593275/kai-yager/yager-team/shutterstock_108205049_n10qqb.jpg"
 filter_sheet_id = "1704670"
 meta_description = ""
-parks = "Hesse Community Park\n\nStorm Hill Park\n\nPelican Cove Park\n\nHighridge Park\n\nClovercliff Park\n\nBlufftop Trail\n\nAgua Magna Canyon\n\nThree Sisters Reserve\n\nFiliorum Reserve\n\nPortuguese Canyon\n\nAbalone Cove \n\nTerranea\n\nPoint Vicente \n\nVicente Bluffs Reserve\n\nSouth Coast Botanical Garden\n\nLos Verdes Golf Course"
-schools = "Cornerstone at Pedregal Elementary\n\nLunada Bay Elementary\n\nMontemalaga Elementary\n\nMira Catalina Elementary\n\nPoint Vicente Elementary\n\nSilver Spur Elementary\n\nSoleado Elementary\n\nVista Grande Elementary\n\nPeninsula Heritage (K-6)\n\nRidgecrest Intermediate \n\nMiraleste Intermediate \n\nPalos Verdes Intermediate\n\nRolling Hills Prep (6-12)\n\nPalos Verdes High\n\nPalos Verdes Peninsula High\n\nChadwick Private"
+parks = "* Hesse Community Park\n* Storm Hill Park\n* Pelican Cove Park\n* Highridge Park\n* Clovercliff Park\n* Blufftop Trail\n* Agua Magna Canyon\n* Three Sisters Reserve\n* Filiorum Reserve\n* Portuguese Canyon\n* Abalone Cove\n* Terranea\n* Point Vicente\n* Vicente Bluffs Reserve\n* South Coast Botanical Garden\n* Los Verdes Golf Course"
+schools = "* Cornerstone at Pedregal Elementary\n* Lunada Bay Elementary\n* Montemalaga Elementary\n* Mira Catalina Elementary\n* Point Vicente Elementary\n* Silver Spur Elementary\n* Soleado Elementary\n* Vista Grande Elementary\n* Peninsula Heritage (K-6)\n* Ridgecrest Intermediate\n* Miraleste Intermediate\n* Palos Verdes Intermediate\n* Rolling Hills Prep (6-12)\n* Palos Verdes High\n* Palos Verdes Peninsula High\n* Chadwick Private"
 title = "Palos Verdes"
 title_tag = ""
 
