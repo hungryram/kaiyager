@@ -6,6 +6,9 @@ parks = "* South Park\n* Clark Field\n* Hermosa Beach Lawn Bowling Club\n* Kelly
 schools = "* Hermosa View (K-3)\n* Hermosa Valley (4-8)"
 title = "Hermosa Beach"
 title_tag = ""
+[menu.main]
+parent = "Communities"
+weight = 6
 
 +++
 One of the best Small Beach Cities in all of California. Hermosa Beach lies within one-and-a-half square miles, it is named one of the best small beach towns in all of America based off of numerous critics. Hermosa Beach is known for having soft beachy sands and an active beach community. Also an active night-life with bars bordering the beach and the pier to provide a weekend night out with your friends. Hermosa beach can be divided into 3 sections.
