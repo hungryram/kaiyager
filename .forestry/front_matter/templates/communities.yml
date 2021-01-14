@@ -42,6 +42,7 @@ fields:
   label: Schools
 pages:
 - content/communities/central-torrance.md
+- content/communities/gardena.md
 - content/communities/hermosa-beach.md
 - content/communities/north-torrance.md
 - content/communities/palos-verdes.md
