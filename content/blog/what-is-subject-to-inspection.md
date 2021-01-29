@@ -2,7 +2,6 @@
 author = "our-team/kai-yager.md"
 categories = ["Inspection", "Real estate tips", "Real estate buyers", "what is subject to inspection"]
 date = 2021-01-29T08:00:00Z
-draft = true
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1611953278/kai-yager/yager-team/bud-helisson-kqguzgvYrtM-unsplash-2_qvd3ad.jpg"
 image_alt_tag = "Subject to inspection"
 tags = ["What is Subject to inspection", "real estate tip", "homebuyer tips"]
