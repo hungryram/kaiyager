@@ -4,7 +4,7 @@ categories = ["Buying"]
 date = 2021-01-29T08:00:00Z
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1611953278/kai-yager/yager-team/bud-helisson-kqguzgvYrtM-unsplash-2_qvd3ad.jpg"
 image_alt_tag = "Subject to inspection"
-tags = ["real estate tip"]
+tags = []
 title = "What is Subject to Inspection?"
 url = "subject to inspection"
 [search_engine_optimization]
