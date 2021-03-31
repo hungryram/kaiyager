@@ -1,6 +1,6 @@
 +++
 author = "our-team/kai-yager.md"
-categories = ["Real Estate", "First time home buyer", "real estate investing", "Real estate finance"]
+categories = ["Buying", "Investing"]
 date = 2021-01-08T08:00:00Z
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1610135660/kai-yager/yager-team/avi-waxman-f9qZuKoZYoY-unsplash_spcodj.jpg"
 image_alt_tag = ""
