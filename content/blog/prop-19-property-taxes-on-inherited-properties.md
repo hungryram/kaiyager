@@ -1,6 +1,6 @@
 +++
 author = "our-team/kai-yager.md"
-categories = ["property tax", "prop 19", "real estate", "real estate taxes", "inherited property"]
+categories = ["Investing"]
 date = 2021-01-14T08:00:00Z
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1610649191/kai-yager/yager-team/kelly-sikkema-wgcUx0kR1ps-unsplash-2_vpp45n.jpg"
 image_alt_tag = "prop 19"
