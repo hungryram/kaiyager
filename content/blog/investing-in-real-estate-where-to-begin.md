@@ -4,7 +4,7 @@ categories = []
 date = 2021-03-31T07:00:00Z
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1617209896/kai-yager/yager-team/luke-van-zyl-koH7IVuwRLw-unsplash_adkxtu.jpg"
 image_alt_tag = "real estate investing"
-tags = ["how to invest in real estate", "real estate", "investing", "real estate education"]
+tags = ["investing"]
 title = "Investing in Real Estate: Where to Begin? "
 url = ""
 [search_engine_optimization]
