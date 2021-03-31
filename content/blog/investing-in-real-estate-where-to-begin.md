@@ -6,7 +6,7 @@ featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v161720989
 image_alt_tag = "real estate investing"
 tags = ["investing"]
 title = "Investing in Real Estate: Where to Begin? "
-url = ""
+url = "how to invest in real estate"
 [search_engine_optimization]
 meta_description = "How to start investing in real estate? There are many types of real estate properties. Deciding which one is the right fit for you will allow you to focus on the best investment for that type of property. Many people will not know what they are looking for, making the decision harder. "
 title_tag = "Real Estate Investing: Where to Begin?"
