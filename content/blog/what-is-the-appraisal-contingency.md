@@ -2,7 +2,6 @@
 author = "our-team/kai-yager.md"
 categories = ["buying"]
 date = 2021-04-07T07:00:00Z
-draft = true
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1617835099/kai-yager/yager-team/jonathan-borba-BFY9WUBbazE-unsplash_dwkvrf.jpg"
 image_alt_tag = "appraisal"
 tags = ["buying"]
