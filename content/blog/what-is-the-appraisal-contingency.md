@@ -5,7 +5,7 @@ date = 2021-04-07T07:00:00Z
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1617835099/kai-yager/yager-team/jonathan-borba-BFY9WUBbazE-unsplash_dwkvrf.jpg"
 image_alt_tag = "appraisal"
 tags = ["buying"]
-title = "What is the Appraisal Contingency"
+title = "What is an Appraisal Contingency?"
 url = "appraisal contingency"
 [search_engine_optimization]
 meta_description = "What is an Appraisal Contingency and the decision to waive or keep... How to buy a home in a competitive market? What happens if the home appraises for less? "
