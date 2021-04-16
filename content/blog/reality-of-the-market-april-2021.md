@@ -2,7 +2,6 @@
 author = "our-team/kai-yager.md"
 categories = ["Market Updates"]
 date = 2021-04-15T07:00:00Z
-draft = true
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1618534585/kai-yager/yager-team/harmen-jelle-van-mourik-0yfWDwHOB0g-unsplash_urhkz6.jpg"
 image_alt_tag = ""
 tags = []
