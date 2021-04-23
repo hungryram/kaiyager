@@ -2,7 +2,6 @@
 author = "our-team/kai-yager.md"
 categories = ["Investing", "Buying"]
 date = 2021-04-22T07:00:00Z
-draft = true
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1619142981/kai-yager/yager-team/scott-graham-5fNmWej4tAA-unsplash_rpcomo.jpg"
 image_alt_tag = ""
 tags = []
