@@ -16,11 +16,10 @@ title_tag = "Real Estate Investment Strategy: House-Hacking"
 
 ### 
 
-One of the most common strategies to invest in Real Estate as a First Time Home Buyer is House Hacking. House Hacking is when you invest/purchase a property) to live in and rent out the other units, rooms, basements, etc. to offset the mortgage payments. The idea behind this strategy is to have the renters from the other units or rooms to help or fully cover your mortgage payment. Another step to this strategy is that since you are owner occupying the property, you have the option to put less money down (Low as 3.5% Down vs. 15%-25% for an investor) and you get a better interest rate versus someone who would be buying as an investor. You can always decide to turn it into your investment property but only after living in it for a minimum of 12 months. Using this strategy, there are a few key factors to consider before jumping into what seems like a fool proof investment. In our assessment today we will be shifting our focus to multi-unit homes.
+One of the most common strategies to invest in Real Estate as a First Time Home Buyer is House Hacking. House Hacking is when you invest/purchase a property to live in and rent out the other units, rooms, basements, etc. to offset the mortgage payments. The idea behind this strategy is to have the renters from the other units or rooms to help offset your mortgage payments. Another step to this strategy is that since you are owner occupying the property, you have the option to put less money down (As low as 3.5% Down vs. 15%-25% for an investor) and you get a better interest rate versus someone who would be buying as an investor. You can always decide to turn it into your investment property but only after living in it for a minimum of 12 months. Using this strategy, there are a few key factors to consider before jumping into what seems like a fool proof investment. In our assessment today we will be shifting our focus to multi-unit homes.
 
 #### Finances
 
-  
 Finance is obviously the first topic to cover but what do we exactly focus on.
 
 First, we have to figure out what your purchasing power is. You’ve heard me say this over and over, getting pre approved is crucial so you know how much you can afford and what type of figures your monthly payments come out to. By seeing your estimated monthly payments, we can determine whether an investment makes sense for House Hacking. Another note, the more you put towards the down payment, the easier it will be to make a profit.
@@ -51,12 +50,10 @@ We have 20% down (which prevents Private Mortgage Insurance which is around $200
 
 Here is the breakdown of the costs.
 
-  
 Purchase Price: **$650,000**
 
 Down Payment: **20% $130,000**
 
-  
 Interest Rate: **3%**
 
 Property Taxes: 1.2% of appraised value (Purchase Price): **$7,800**
@@ -65,7 +62,6 @@ Monthly Mortgage Payment (Tax Included): **$2,840 /month**
 
 #### Annual Expense Breakdown
 
-  
 Gardener: **$840**
 
 Insurance: **$1200**
