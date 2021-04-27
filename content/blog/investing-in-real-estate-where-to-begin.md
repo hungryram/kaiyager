@@ -1,6 +1,6 @@
 +++
 author = "our-team/kai-yager.md"
-categories = []
+categories = ["investing"]
 date = 2021-03-31T07:00:00Z
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1617209896/kai-yager/yager-team/luke-van-zyl-koH7IVuwRLw-unsplash_adkxtu.jpg"
 image_alt_tag = "real estate investing"
