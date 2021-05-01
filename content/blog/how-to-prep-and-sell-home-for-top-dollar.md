@@ -9,7 +9,7 @@ tags = ["Selling"]
 title = "How to Prep and Sell Home For Top Dollar"
 url = ""
 [search_engine_optimization]
-meta_description = "Steps on what to do to prep a top dollar home sale. Tips and tricks on how to get top dollar. What should you do to sell your home for the most money? Top Dollar Strategies. "
+meta_description = "Steps on what to do to prep a top dollar home sale. Tips and tricks on how to get top dollar. What should you do to sell your home for the most money? Top Dollar Strategies for California Home Sales. Los Angeles real estate is at an all time high. How can you assure you get top dollar when you sell.  "
 title_tag = "How To Prep and Sell Your Home For Top Dollar"
 
 +++
