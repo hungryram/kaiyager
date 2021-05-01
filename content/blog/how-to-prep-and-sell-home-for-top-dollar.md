@@ -7,13 +7,13 @@ featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v161990727
 image_alt_tag = ""
 tags = ["Selling"]
 title = "How to Prep and Sell Home For Top Dollar"
-url = ""
+url = "how to sell your home for top dollar"
 [search_engine_optimization]
 meta_description = "Steps on what to do to prep a top dollar home sale. Tips and tricks on how to get top dollar. What should you do to sell your home for the most money? Top Dollar Strategies for California Home Sales. Los Angeles real estate is at an all time high. How can you assure you get top dollar when you sell.  "
 title_tag = "How To Prep and Sell Your Home For Top Dollar"
 
 +++
-### **How To Prep and Sell Your Home for Top Dollar**
+### How To Prep and Sell Your Home for Top Dollar
 
 Our goal is to exceed our client’s real estate goals while providing a hassle free transaction. In order to do so, we must align the seller’s goals with realistic expectations of the current market. From here, we can establish a strategy that positions the home for a top dollar sale.
 
@@ -36,7 +36,7 @@ The first step is deciding if you are ready to sell your home. Selling a home is
 * Keep it simple. Add minimal, neutral decor which will open the space and makes it easy for buyers to envision their own preferences.
 * Upgrade Curb Appeal. Clean up the landscaping. Remove weeds and any unnecessary items in yard. Add cute plants/flowers if possible.
 
-4. Optional: Conducting a Pre-Listing Inspection. Hiring an inspector will allow you to see if there are any problems that will come up during the sale. Knowing this, you may want to fix significant issues for a smooth transaction.
+5. Optional: Conducting a Pre-Listing Inspection. Hiring an inspector will allow you to see if there are any problems that will come up during the sale. Knowing this, you may want to fix significant issues for a smooth transaction.
 
 #### **Marketing**
 
