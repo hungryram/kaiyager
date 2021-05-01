@@ -18,7 +18,7 @@ Our goal is to exceed our client’s real estate goals while providing a hassle 
 
 The first step is deciding if you are ready to sell your home. Selling a home is a big commitment and if there are any hesitations or reservations, it will make the process difficult. Deciding that you’re ready is the single most important initial step to make.
 
-#### **Prep Home For Sale**
+#### Prep Home For Sale
 
 1. Provide a detailed Personalized Plan. This includes time frames, expectations, costs (Transaction fees and a budget for any potential renovations if decided on.)
 2. Renovations and Upgrades may be decided on to optimize the value of your home. This is where a ROI (Return on Investment) analysis to break down the costs, timing, and rewards will be analyzed to determine if it’s a play to consider.
@@ -37,7 +37,7 @@ The first step is deciding if you are ready to sell your home. Selling a home is
 
 5. Optional: Conducting a Pre-Listing Inspection. Hiring an inspector will allow you to see if there are any problems that will come up during the sale. Knowing this, you may want to fix significant issues for a smooth transaction.
 
-#### **Marketing**
+#### Marketing
 
 1. Pricing Strategy: Pricing your home to sell is crucial for a top dollar sale. We do this by figuring out the value of your home and pricing it 5%-10% below that value.
 
