@@ -2,7 +2,6 @@
 author = "our-team/kai-yager.md"
 categories = ["Selling"]
 date = 2021-05-01T07:00:00Z
-draft = true
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1619907271/kai-yager/yager-team/gus-ruballo-h5QNclJUiA8-unsplash_alwpxx.jpg"
 image_alt_tag = ""
 tags = ["Selling"]
