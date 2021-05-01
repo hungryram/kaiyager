@@ -5,7 +5,7 @@ date = 2021-05-01T07:00:00Z
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1619907271/kai-yager/yager-team/gus-ruballo-h5QNclJUiA8-unsplash_alwpxx.jpg"
 image_alt_tag = ""
 tags = ["Selling"]
-title = "How to Prep and Sell Home For Top Dollar"
+title = "How to Prep and Sell For Top Dollar"
 url = "how to sell your home for top dollar"
 [search_engine_optimization]
 meta_description = "Steps on what to do to prep a top dollar home sale. Tips and tricks on how to get top dollar. What should you do to sell your home for the most money? Top Dollar Strategies for California Home Sales. Los Angeles real estate is at an all time high. How can you assure you get top dollar when you sell.  "
