@@ -8,8 +8,8 @@ tags = ["Market Updates "]
 title = "South Bay Market Update - May vs January This Year "
 url = "SouthBay May vs January "
 [search_engine_optimization]
-meta_description = ""
-title_tag = ""
+meta_description = "Real estate market continues to soar as we look to compare just a few months back to January 2021. "
+title_tag = "South Bay Market Report May 2021"
 
 +++
 **South Bay Market Report**
