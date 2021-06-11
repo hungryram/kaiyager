@@ -6,7 +6,7 @@ featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v162344270
 image_alt_tag = ""
 tags = ["Market Updates "]
 title = "South Bay Market Update - May 2021"
-url = "SouthBay May vs January "
+url = "SouthBay May2021"
 [search_engine_optimization]
 meta_description = "Real estate market continues to soar as we look to compare just a few months back to January 2021. "
 title_tag = "South Bay Market Report May 2021"
