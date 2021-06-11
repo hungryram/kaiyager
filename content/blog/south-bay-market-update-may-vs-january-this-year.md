@@ -5,7 +5,7 @@ date = 2021-06-11T07:00:00Z
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1623442702/kai-yager/yager-team/chuttersnap-awL_YCtPGv4-unsplash_vsulh0.jpg"
 image_alt_tag = ""
 tags = ["Market Updates "]
-title = "South Bay Market Update - May vs January This Year "
+title = "South Bay Market Update - May 2021"
 url = "SouthBay May vs January "
 [search_engine_optimization]
 meta_description = "Real estate market continues to soar as we look to compare just a few months back to January 2021. "
