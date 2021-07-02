@@ -2,7 +2,6 @@
 author = "our-team/kai-yager.md"
 categories = ["Market Updates"]
 date = 2021-07-02T07:00:00Z
-draft = true
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1625267470/kai-yager/yager-team/filtergrade-4T4AcGJvARQ-unsplash_nrbaom.jpg"
 image_alt_tag = ""
 tags = []
