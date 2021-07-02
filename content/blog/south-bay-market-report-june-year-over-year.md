@@ -5,7 +5,7 @@ date = 2021-07-02T07:00:00Z
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1625267470/kai-yager/yager-team/filtergrade-4T4AcGJvARQ-unsplash_nrbaom.jpg"
 image_alt_tag = ""
 tags = []
-title = "South Bay Market Report -June 2021 (Year over Year)"
+title = "South Bay Market Report - June 2021 (Year over Year)"
 url = "Market Report June 2021"
 [search_engine_optimization]
 meta_description = ""
