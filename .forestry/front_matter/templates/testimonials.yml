@@ -16,11 +16,6 @@ fields:
     schema:
       format: markdown
   label: Body
-- name: seo
-  type: include
-  config: {}
-  template: seo
-  label: SEO
 - name: testimonials
   type: field_group_list
   fields:
@@ -43,11 +38,11 @@ fields:
     config:
       required: false
     label: Source
-  - name: source_label
+  - name: source_link
     type: text
     config:
       required: false
-    label: Source Label
+    label: Source Link
   - name: date
     type: text
     config:
@@ -58,5 +53,15 @@ fields:
     max: 
     labelField: 
   label: Testimonials
+- name: search_engine_optimization
+  type: field_group
+  config: {}
+  fields:
+  - name: seo
+    type: include
+    config: {}
+    template: seo
+    label: SEO
+  label: Search Engine Optimization
 pages:
 - content/testimonials/_index.md
