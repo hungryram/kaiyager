@@ -17,11 +17,11 @@ title_tag = ""
 
 With the economy slowing down, inflation, stocked market plunges, crypto crash, gas prices, decade high interest rates and all these things... what is happening with the real estate market?&nbsp;
 
-&lt;img src="/uploads/screen-shot-2022-06-22-at-2-15-56-pm.png" width="638" height="414" /&gt;
+<img src="/uploads/screen-shot-2022-06-22-at-2-15-56-pm-1.png" width="638" height="414" />
 
 The chart above represents the inventory levels of the Real Estate market at that specific date. As you can see in 1 month and 10 days the market has seen a 50.7% increase in active listings. A significant surge of properties hitting the market. In order to gauge buyer demand, we can look at the amount of homes entering escrow. This shows that buyers are pursuing and getting offers accepted to purchase. Even with the surge of listings hitting the market, it would typically make sense to see more homes enter escrow, but we are seeing the complete opposite. A 38.5% decrease in pending homes, showing signs that buyer demand is quickly dwindling. Average Days on market has also increased which indicates its taking longer to sell and potentially sellers will have to reduce their prices in order to sell. As we look at a more targeted market like Torrance, a pretty hot South Bay market, we look into how the Real Estate market is affected by the economic events.&nbsp;
 
-&lt;img src="/uploads/screen-shot-2022-06-22-at-2-20-18-pm.png" width="638" height="414" /&gt;
+<img src="/uploads/screen-shot-2022-06-22-at-2-20-18-pm-1.png" width="638" height="414" />
 
 In the Torrance market, it is a little different from the overall South Bay Market. First thing we notice is that the inventory has surged 69% in just a month and ten days. Along with pending homes that indicate buyer demand, it is somewhat stronger than in other markets since we do not see a severe reduction like the overall market.&nbsp;
 
